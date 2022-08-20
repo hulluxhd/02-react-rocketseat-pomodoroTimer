@@ -5,6 +5,9 @@
             "error",
             {
               "endOfLine": "auto"
+            },
+            {
+              "usePrettierrc": false
             }
           ]
     }
